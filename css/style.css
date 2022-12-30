@@ -439,15 +439,15 @@ body {
 }
 
 .header-swiper__slide1 {
-  background-image: url(img/header-swiper/swiper-desctop-3.png);
+  background-image: url(./img/header-swiper/swiper-desctop-3.png);
 }
 
 .header-swiper__slide2 {
-  background-image: url(img/header-swiper/swiper-desctop-2.png);
+  background-image: url(./img/header-swiper/swiper-desctop-2.png);
 }
 
 .header-swiper__slide3 {
-  background-image: url(img/header-swiper/swiper-desctop-1.png);
+  background-image: url(./img/header-swiper/swiper-desctop-1.png);
 }
 
 .swiper-container {
