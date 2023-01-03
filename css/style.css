@@ -551,7 +551,7 @@ body {
 /*Gallery*/
 
 .gallery {
-  background-image: url(/img/gallery/gallery-desctop.jpg);
+  background-image: url(../img/gallery/gallery-desctop.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
