@@ -146,15 +146,15 @@
   }
 
   .header-swiper__slide1 {
-    background-image: url(/img/header-swiper/1024/swiper-1.jpg);
+    background-image: url(../img/header-swiper/1024/swiper-1.jpg);
   }
 
   .header-swiper__slide2 {
-    background-image: url(/img/header-swiper/1024/swiper-2.jpg);
+    background-image: url(../img/header-swiper/1024/swiper-2.jpg);
   }
 
   .header-swiper__slide3 {
-    background-image: url(/img/header-swiper/1024/swiper-3.jpg);
+    background-image: url(../img/header-swiper/1024/swiper-3.jpg);
   }
 
   .header-search-mobile {
